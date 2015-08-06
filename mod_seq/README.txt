@@ -1,0 +1,1 @@
+This folder consists of python scripts used for differnt downstream analysis of sequencing data for which the sample ghave been treated to introduce modification that terminates the sequencing process at a specific site.
